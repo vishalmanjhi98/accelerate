@@ -1,0 +1,10 @@
+h1{
+    justify-content: center;
+    display: flex;
+    background-color: rosybrown;
+}
+form{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
